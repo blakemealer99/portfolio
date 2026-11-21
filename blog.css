@@ -26,3 +26,24 @@ body {
 .navbar a:hover {
   color: #ffffff;
 }
+
+
+body {
+  margin: 0;
+}
+
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+main h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+main p {
+  color: #cbd5e1;
+  line-height: 1.6;
+}
